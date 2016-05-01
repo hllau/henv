@@ -1,0 +1,25 @@
+{
+  "name": "henv",
+  "author": {
+    "name": "Hing-Lung Lau",
+    "email": "lung220@gmail.com",
+    "url": "https://github.com/hllau/envprefix.git"
+  },
+  "description": "Extract environment variables in a human way.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hllau/envprefix.git"
+  },
+  "version": "1.0.0",
+  "keywords": [
+    "config",
+    "environment"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "camelcase": "^2.1.1"
+  }
+}
